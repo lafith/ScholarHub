@@ -4,7 +4,7 @@
     "description": "It links google scholar and scihub",
     "version": "1.0",
     "icons": {
-        "64": "logo.png"
+        "64": "icons/logo.png"
     },
     "permissions": [
         "contextMenus",
@@ -12,14 +12,14 @@
     ],
     "background": {
         "scripts": [
-            "contextScript.js",
-            "shortcuts.js",
-            "browserButtons.js"
+            "scripts/contextScript.js",
+            "scripts/shortcuts.js",
+            "scripts/browserButtons.js"
         ]
     },
     "browser_action": {
         "default_icon": {
-            "32": "scihub.png"
+            "32": "icons/scihub.png"
         }
     },
     "commands": {
