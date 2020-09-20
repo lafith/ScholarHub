@@ -1,0 +1,39 @@
+{
+    "manifest_version": 2,
+    "name": "ScholarHub",
+    "description": "It links google scholar and scihub",
+    "version": "1.0",
+    "icons": {
+        "64": "logo.png"
+    },
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "background": {
+        "scripts": [
+            "contextScript.js",
+            "shortcuts.js",
+            "browserButtons.js"
+        ]
+    },
+    "browser_action": {
+        "default_icon": {
+            "32": "scihub.png"
+        }
+    },
+    "commands": {
+        "scholarKey": {
+            "suggested_key": {
+                "default": "Alt+G"
+            },
+            "description": "It opens Google Scholar"
+        },
+        "scihubKey": {
+            "suggested_key": {
+                "default": "Ctrl+Alt+S"
+            },
+            "description": "It opens Google Scholar"
+        }
+    }
+}
