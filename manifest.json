@@ -1,10 +1,15 @@
 {
     "manifest_version": 2,
     "name": "ScholarHub",
-    "description": "It links google scholar and scihub",
+    "description": "It simplifies usage of google scholar and scihub",
     "version": "1.0",
     "icons": {
-        "64": "icons/logo.png"
+        "64": "icons/scholar_64.png"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "scholarhub@example.com"
+        }
     },
     "permissions": [
         "contextMenus",
@@ -19,7 +24,7 @@
     },
     "browser_action": {
         "default_icon": {
-            "32": "icons/scihub.png"
+            "16": "icons/scihub.png"
         }
     },
     "commands": {
