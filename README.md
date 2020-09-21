@@ -13,8 +13,8 @@ ScholarHub is a Mozilla Firefox browser extension which simplifies the usage of 
 
 **Raise an Issue regarding any research-oriented feature, which you think will make this extension better.**
 
-## Test:
-This is not a published add-on. If you want to use it as a temporary Add-on:
-
+## Download:
+This is a published add-on. Download and use from [here](https://addons.mozilla.org/addon/scholarhub/).
+## How to test:
 ![test](./mischFiles/test.gif)
 
