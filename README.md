@@ -6,14 +6,11 @@ ScholarHub is a cross-browser extension which simplifies the usage of [Google Sc
 ## Features:
 - On opening a browser extension will search for the latest [working link](https://sci-hub.now.sh/) of Sci-Hub.
 - Some search results of Google Scholar will not be having direct PDF link. This extension will include a clickable raven logo to them, which will search that url in Sci-Hub.
-
-![demo01](./demoGIF/demo01.gif) 
-
 - Press on the scholarhub browser button to search the current tab's url in Sci-Hub.
 - If doi link is available right click on it for 'search on Sci-Hub' option.
 - After selecting text, on Rightclick an option will be available 'Search on Google Scholar'.
 
-![demo02](./demoGIF/demo02.gif)
+![demo02](./demoGIF/demo.gif)
 
 - Alt+G will open a new Google Scholar tab.
 - Ctrl+Space will open a new Sci-Hub tab.
