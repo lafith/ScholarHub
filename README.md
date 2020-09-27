@@ -4,7 +4,9 @@ ScholarHub is a cross-browser extension which simplifies the usage of [Google Sc
 
 **Add ScholarHub to Firefox from [here](https://addons.mozilla.org/en-US/firefox/addon/scholarhub/)**
 
-*You have to download the source code for using in Google Chrome, steps [here](##test)*
+*You have to download the source code for using in Google Chrome:*
+
+![chrome](./demoGIF/chrome.gif)
 
 ## Features:
 - On opening a browser, extension will search for the latest [working link](https://sci-hub.now.sh/) of Sci-Hub.
@@ -15,7 +17,7 @@ ScholarHub is a cross-browser extension which simplifies the usage of [Google Sc
 - Alt+G will open a new Google Scholar tab.
 - Ctrl+Space will open a new Sci-Hub tab.
 
-![demo02](./demoGIF/demo.gif)
+![demo](./demoGIF/demo.gif)
 
 ## Test:
 If you want to download and use:
